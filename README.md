@@ -1,3 +1,2 @@
-# gip
+# Interview Practice
 
-G***** Interview Practice
