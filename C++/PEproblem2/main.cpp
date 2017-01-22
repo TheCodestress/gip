@@ -8,6 +8,7 @@
  * File:   main.cpp
  * Author: Ryan
  *
+ * Project Euler problem #2
  * Created on July 11, 2016, 3:33 PM
  */
 
